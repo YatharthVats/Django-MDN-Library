@@ -1,2 +1,2 @@
 # Django-MDN-Library
-Library for Deploying MDN Library which was made as an example
+A project library for deploying the Mozilla Tutorial Library Project (Made as an example/tutorial).
